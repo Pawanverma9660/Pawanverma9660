@@ -2,7 +2,7 @@
 
 ### 🧑‍💼 Backend Developer | Python | Flask | Django | FastAPI | REST APIs | Web Scraping | SQLite | MongoDB | SQLAlchemy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pawan-kumar9660/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/pawan-python-developer/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Pawanverma9660)
 [![Email](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail)](mailto:kr.pawanverma.contact@gmail.com)
 
@@ -16,7 +16,7 @@
 
 - **Languages:** Python, HTML, CSS, JavaScript (Basic)
 - **Frameworks:** Django, FastAPI, Flask, DRF
-- **Databases:** SQLite, PostgreSQL, MySQL, MongoDB
+- **Databases:** SQLite, PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - **Tools & Platforms:** Git, GitHub, Docker, Postman, Heroku, Vercel
 - **Others:** Web Scraping (BeautifulSoup, Selenium), CI/CD (Basics), Cloud (AWS basics), Agile methodology
 
