@@ -64,7 +64,7 @@
 
 - **📧 Email:** kr.pawanverma.contact@gmail.com  
 - **📱 Phone:** +91-6207198386  
-- **🌐 Portfolio / Resume:** Available on request or GitHub
+- **🌐 Resume:** [Resume](https://www.linkedin.com/posts/pawan-python-developer_resume-activity-7333494311738621952-I9_t?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZeZPwB52rQuXSAEsHvFiUAkqk02vC35NM)
 
 > ⚡ *Let’s connect and collaborate on exciting backend projects!*
 
