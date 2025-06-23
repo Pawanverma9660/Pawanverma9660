@@ -24,7 +24,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [HiFi Delivery Eats](https://github.com/Pawanverma9660/HiFi-Delivery-Eats)
+### 🔹 [HiFi Delivery Eats](https://github.com/Pawanverma9660/HIFIDelivery).
 > Flask-based food delivery system with user authentication, menu & order management, delivery tracking, and analytics.
 
 > ✅ Developed an AI-powered restaurant management system using Flask, improving order processing efficiency by 95%.  
